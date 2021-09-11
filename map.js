@@ -55,7 +55,7 @@ mapboxgl.accessToken = "pk.eyJ1Ijoic2FpbnRzdGVsbGEiLCJhIjoiY2txY3J1aWJnMHlmODJub
 // Create a new MapboxGL map, change its default settings
 var map = new mapboxgl.Map({
 	container: "map",
-	style: "mapbox://styles/saintstella/cks3eh1bb4qs717pknq1pwkmh",
+	style: "mapbox://styles/saintstella/cktbwn7t70xdd17n3grizrotm",
 	center: mapCenter,
 	zoom: defaultZoom,
 	maxZoom: 14.0,
